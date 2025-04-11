@@ -1,5 +1,7 @@
-# Ignore large files
-*.pt
-*.zip
-*.npy
-
+*.h5
+*.pth
+*.ckpt
+*.tar.gz
+__pycache__/
+*.log
+*.DS_Store
