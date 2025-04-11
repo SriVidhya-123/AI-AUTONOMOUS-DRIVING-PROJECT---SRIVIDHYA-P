@@ -1,9 +1,5 @@
-*.mp4
+# Ignore large files
+*.pt
 *.zip
-*.h5
-*.pth
-*.ckpt
-*.tar.gz
-__pycache__/
-*.log
-*.DS_Store
+*.npy
+
