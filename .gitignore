@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6392628 (Add compressed video files)
 *.h5
 *.pth
 *.ckpt
