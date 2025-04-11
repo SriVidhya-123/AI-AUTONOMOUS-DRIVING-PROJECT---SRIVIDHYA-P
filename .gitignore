@@ -1,0 +1,9 @@
+*.mp4
+*.zip
+*.h5
+*.pth
+*.ckpt
+*.tar.gz
+__pycache__/
+*.log
+*.DS_Store
